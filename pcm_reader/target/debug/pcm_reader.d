@@ -1,0 +1,1 @@
+/home/nyoxon/programming/rust/crates/cpal/first-project/pcm_reader/target/debug/pcm_reader: /home/nyoxon/programming/rust/crates/cpal/first-project/pcm_reader/src/lib.rs /home/nyoxon/programming/rust/crates/cpal/first-project/pcm_reader/src/main.rs
